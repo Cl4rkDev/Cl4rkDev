@@ -14,7 +14,7 @@ I can edit professionally a video with DaVinci Resolve 20.
 
 I’m currently learning AWS.
 
-**Some Information About Me:**
+**Some Informations About Me:**
 
 - I enjoy with riding
 - I love walking on early hours of morning.
