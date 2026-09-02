@@ -18,7 +18,7 @@ I’m currently learning Cloud Services like AWS.
 
 - I enjoy with riding
 - I love walking on early hours of morning.
-- My friends calling me "Russian Software Developer", because I look like a Russians.
+- My friends calling me "Russian Software Developer", because they says I look like a Russians.
 
 
 <!--
