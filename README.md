@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+I'm Clark, a Developer & Editor (Also I'm interesting with Cyber Security) based in Turkey.
+
+I'm developing Discord Bot's & Personnel Websites (Like Portfolio) currently.
+
+I have a Automated Systems Organization called [Nexify](https://nexify.xyz)
+
+Also I am a volunteer Support at [Xeroshield](https://xeroshield.net)
+
+I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, FiveM Lua, FiveM Integrations. 
+
+I can edit professionally a video with DaVinci Resolve 20. 
+
+I’m currently learning Cloud Services like AWS.
+
+**Some Information About Me:**
+
+- I enjoy with riding
+- I love walking on early hours of morning.
+- My friends calling me "Russian Software Developer", because I look like a Russians.
+
+
 <!--
 **Cl4rkDev/Cl4rkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
