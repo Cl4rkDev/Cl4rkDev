@@ -12,7 +12,7 @@ I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, Fi
 
 I can edit professionally a video with DaVinci Resolve 20. 
 
-I’m currently learning Cloud Services like AWS.
+I’m currently learning AWS.
 
 **Some Information About Me:**
 
