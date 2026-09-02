@@ -8,7 +8,7 @@ I have a Automated Systems Organization called [Nexify](https://nexifysystems.xy
 
 Also I am a volunteer Support at [Xeroshield](https://xeroshield.net)
 
-I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, FiveM Lua, FiveM Integrations. 
+I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, HTML, JavaScript, CSS, FiveM Lua, FiveM Integrations. 
 
 I can edit professionally a video with DaVinci Resolve 20. 
 
