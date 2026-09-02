@@ -4,7 +4,7 @@ I'm Clark, a Developer & Editor (Also I'm interesting with Cyber Security) based
 
 I'm developing Discord Bot's & Personnel Websites (Like Portfolio) currently.
 
-I have a Automated Systems Organization called [Nexify](https://nexify.xyz)
+I have a Automated Systems Organization called [Nexify](https://nexifysystems.xyz)
 
 Also I am a volunteer Support at [Xeroshield](https://xeroshield.net)
 
