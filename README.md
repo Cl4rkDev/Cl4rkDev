@@ -16,7 +16,7 @@ With DaVinci Resolve 20, I can edit a video professionally.
 
 - I enjoy with riding
 - I love walking on early hours of morning.
-- My friends calling me "Russian Software Developer", because they says I look like a Russians.
+- My friends calling me "Russian Software Developer", because they says I look like Russians.
 
 
 <!--
