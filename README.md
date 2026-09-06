@@ -12,8 +12,6 @@ I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, HT
 
 With DaVinci Resolve 20, I can edit a video professionally.
 
-I’m currently learning AWS.
-
 **Some Informations About Me:**
 
 - I enjoy with riding
