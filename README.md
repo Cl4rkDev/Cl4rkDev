@@ -6,7 +6,7 @@ I'm developing Discord Bot's & Personnel Websites (Like Portfolio) currently.
 
 I have a Automated Systems Organization called [Nexify](https://nexifysystems.xyz)
 
-Also I am a volunteer Support at [Xeroshield](https://xeroshield.net)
+Also I'm a Staff at [Xeroshield](https://xeroshield.net)
 
 I can develop stuffs with Node.JS, TypeScript, Discord.JS v14, MySQL/MongoDB, HTML, JavaScript, CSS, FiveM Lua, FiveM Integrations. 
 
