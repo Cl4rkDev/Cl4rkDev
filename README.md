@@ -1,43 +1,48 @@
+<div align="center">
+
 # Hi there 👋
 
-I'm **Clark**, a Developer & Editor based in Turkey with a strong interest in **Cyber Security**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=5865F2&center=true&vCenter=true&width=450&lines=Backend+%26+Discord.js+Development;Desktop+Tools+%26+Security+Interests;FiveM+Integrations+%26+Lua+Scripting;Staff+at+Xeroshield)](https://git.io/typing-svg)
 
-Currently building a **Forensic Scanner** (Screen-Share Tool) and working as **Staff** at [Xeroshield](https://xeroshield.net).
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-Clark-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/933488224259682347)
+[![GitHub](https://img.shields.io/badge/GitHub-Cl4rkDev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cl4rkDev)
+[![Gmail](https://img.shields.io/badge/Gmail-contactclarkstudio%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contactclarkstudio@gmail.com)
+
+</div>
+
+---
+
+### 📌 About Me
+
+I'm **Clark**, a developer based in Turkey. I work on backend systems, custom Discord bots, desktop utilities, and game scripting. Interested in cyber security fundamentals.
+
+- 🏢 Staff at [Xeroshield](https://xeroshield.net)
+- 🛠️ Currently developing a **Forensic Scanner** (desktop screen-share & system triage tool)
+- 🏍️ Riding & early morning walks
+- 💬 Sometimes nicknamed the *"Russian Software Developer"*
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend & Scripting**  
-`Node.js` · `TypeScript` · `Discord.js v14` · `MySQL` · `MongoDB`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,js,lua,mysql,mongodb,html,css" />
+</div>
 
-**Frontend**  
-`HTML` · `CSS` · `JavaScript`
+<br/>
 
-**Game Development**  
-`FiveM` · `Lua` · `FiveM Integrations`
-
-**Video Editing**  
-`DaVinci Resolve 20`
-
----
-
-### 📌 Currently Working On
-
-- **Forensic Scanner** — A powerful screen-share & forensic analysis tool
+- **Languages & Scripting:** C#, TypeScript, JavaScript, Lua
+- **Frameworks & Tools:** Node.js, Discord.js v14, .NET (WinForms)
+- **Databases:** MySQL, MongoDB
+- **Video Editing:** DaVinci Resolve
 
 ---
 
-### ⚡ About Me
+### 📊 GitHub Activity
 
-- I enjoy riding
-- I love early morning walks
-- Friends sometimes call me the "Russian Software Developer" because of the resemblance 😄
-
----
-
-### 📫 Contact
-
-[![Discord](https://img.shields.io/badge/Discord-Clark-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/933488224259682347)
-[![GitHub](https://img.shields.io/badge/GitHub-Clark-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cl4rkDev)
-[![Gmail](https://img.shields.io/badge/Gmail-contactclarkstudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactclarkstudio@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cl4rkDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Clark's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cl4rkDev&theme=tokyonight&hide_border=true" alt="Clark's Streak" height="150" />
+</div>
