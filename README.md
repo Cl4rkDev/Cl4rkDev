@@ -13,7 +13,7 @@
 I'm **Clark**, a developer based in Turkey. I build backend services, desktop utilities, custom Discord bots, and game scripts. Interested in cyber security fundamentals.
 
 - 🏢 Staff at [Xeroshield](https://xeroshield.net)
-- 🛠️ Currently developing a **Forensic Scanner** (desktop screen-share & system triage tool)
+- 🛠️ Currently developing a **Forensic Scanner**
 - 🏍️ Riding & early morning walks
 - 💬 Sometimes nicknamed the *"Russian Software Developer"*
 
