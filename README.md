@@ -43,6 +43,5 @@ I'm **Clark**, a developer based in Turkey. I work on backend systems, custom Di
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cl4rkDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Clark's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cl4rkDev&theme=tokyonight&hide_border=true" alt="Clark's Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cl4rkDev&theme=tokyonight&hide_border=true" height="150" />
 </div>
