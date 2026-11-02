@@ -36,13 +36,6 @@ Currently building a **Forensic Scanner** (Screen-Share Tool) and working as **S
 
 ---
 
-### 📊 GitHub Stats
-
-![Clark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cl4rkDev&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cl4rkDev&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-Clark-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/933488224259682347)
